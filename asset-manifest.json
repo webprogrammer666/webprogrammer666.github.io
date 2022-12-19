@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dfe721a2.css",
+    "main.js": "/static/js/main.f1de2de7.js",
+    "static/media/narek.png": "/static/media/narek.175c4836fafc6b77572b.png",
+    "static/media/areg.png": "/static/media/areg.e327cb98485c404d98b0.png",
+    "static/media/mher.png": "/static/media/mher.9d65fc0916997f7dc7b1.png",
+    "static/media/tigran.png": "/static/media/tigran.499507d22eece34498ef.png",
+    "static/media/levon.png": "/static/media/levon.7e34ba9c18d21d55824e.png",
+    "static/media/noCompany.png": "/static/media/noCompany.e7954aa27a43923693de.png",
+    "static/media/vardges.png": "/static/media/vardges.10e776af127e864a429c.png",
+    "static/media/harut.png": "/static/media/harut.d9992ab419021ba31656.png",
+    "static/media/arsho.png": "/static/media/arsho.3a787b75508cbab6da13.png",
+    "static/media/davo.png": "/static/media/davo.fc63fec03cf59c7ef730.png",
+    "static/media/vaheyeranosyan.png": "/static/media/vaheyeranosyan.218d263adf3c48383bcb.png",
+    "static/media/edgargrigoryan.png": "/static/media/edgargrigoryan.72661c8556aba7e89d74.png",
+    "static/media/abul.png": "/static/media/abul.d20dc3fdf9913273b289.png",
+    "static/media/vaheghazaryan.png": "/static/media/vaheghazaryan.c15866e3fb259a54e4fa.png",
+    "static/media/edgarkirakosyan.png": "/static/media/edgarkirakosyan.f3958dafa8ff9e9cbbe6.png",
+    "static/media/noImg.png": "/static/media/noImg.e5e1763a0f0aa0741836.png",
+    "static/media/goldStar.png": "/static/media/goldStar.6f55a71772e1acfd9520.png",
+    "static/media/digitain.png": "/static/media/digitain.c22eac04ea4159f598bc.png",
+    "static/media/star.png": "/static/media/star.19ecda2f97b8e9dc5aa8.png",
+    "index.html": "/index.html",
+    "main.dfe721a2.css.map": "/static/css/main.dfe721a2.css.map",
+    "main.f1de2de7.js.map": "/static/js/main.f1de2de7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfe721a2.css",
+    "static/js/main.f1de2de7.js"
+  ]
+}
